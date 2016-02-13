@@ -1,0 +1,23 @@
+{
+  "name": "gtri-face",
+  "version": "1.0.0",
+  "description": "The landing page for the gtri project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaxoncreed/GTRI-face.git"
+  },
+  "author": "Jackson Morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaxoncreed/GTRI-face/issues"
+  },
+  "homepage": "https://github.com/o-development/o-team#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
